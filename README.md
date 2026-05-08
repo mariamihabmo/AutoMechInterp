@@ -281,5 +281,5 @@ hypotheses = provider.propose(protocol, budget=10)
 # → list of hypothesis dicts ready for hypothesis.jsonl
 ```
 
-> **Docs**: Website *(URL redacted for NeurIPS 2026 double-blind review)* · [Methodology V26](docs/methodology_versions/methodologyV26_main_track_significance_gap_analysis.md) · [Benchmark Contract](docs/reference/BENCHMARK_CONTRACT.md) · [Lanes Reference](docs/reference/LANES.md)
+> **Docs**: Website *(URL redacted for NeurIPS 2026 double-blind review)* [Benchmark Contract](docs/reference/BENCHMARK_CONTRACT.md) · [Lanes Reference](docs/reference/LANES.md)
 > · [Claim Bundle Spec v1](docs/reference/claim_bundle_spec_v1.md) · [Reproducibility Runbook](docs/reference/reproducibility_runbook.md)
